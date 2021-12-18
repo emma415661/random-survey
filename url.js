@@ -8,8 +8,16 @@
 
 
 const urls = [
-	'https://forms.gle/VPycULmqAaUCJ4ar7',
-	'https://www.youtube.com/',
-	'https://jerrynest.io/random-google-form/',
-	'https://forms.gle/NphKR1yAC6CzeEKn9'
+	'https://www.surveycake.com/s/bmbm9',
+	'https://www.surveycake.com/s/30W0r',
+	'https://www.surveycake.com/s/Ayqyy',
+	'https://www.surveycake.com/s/4rxMQ',
+	'https://www.surveycake.com/s/L86zY',
+	'https://www.surveycake.com/s/30WMr',
+	'https://www.surveycake.com/s/Qb1eR',
+	'https://www.surveycake.com/s/keXaY',
+	'https://www.surveycake.com/s/XRoW3',
+	'https://www.surveycake.com/s/2wKPo',
+	'https://www.surveycake.com/s/mvmal',
+	'https://www.surveycake.com/s/VQvrk'
 ];
