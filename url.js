@@ -9,5 +9,7 @@
 
 const urls = [
 	'https://forms.gle/VPycULmqAaUCJ4ar7',
+	'https://www.youtube.com/',
+	'https://jerrynest.io/random-google-form/',
 	'https://forms.gle/NphKR1yAC6CzeEKn9'
 ];
