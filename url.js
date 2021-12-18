@@ -6,7 +6,6 @@
  * 2. 網址請用引號包起來
  */
 
-
 const urls = [
 	'https://www.surveycake.com/s/bmbm9',
 	'https://www.surveycake.com/s/30W0r',
