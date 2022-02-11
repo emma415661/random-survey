@@ -8,20 +8,14 @@
 
 const urls = [
 	'https://www.surveycake.com/s/bmbm9',
-	'https://www.surveycake.com/s/3MZGN',
+	'https://www.surveycake.com/s/bmbm9',
 	'https://www.surveycake.com/s/A2M9D',
-	'https://www.surveycake.com/s/4rxMQ',
-	'https://www.surveycake.com/s/2PZgN',
-	'https://www.surveycake.com/s/Vr1nO',
 	'https://www.surveycake.com/s/L86zY',
 	'https://www.surveycake.com/s/la6O9',
 	'https://www.surveycake.com/s/6MRNy',
 	'https://www.surveycake.com/s/Qb1eR',
 	'https://www.surveycake.com/s/aLqvW',
 	'https://www.surveycake.com/s/pa130',
-	'https://www.surveycake.com/s/2wKPo',
-	'https://www.surveycake.com/s/16yD7',
-	'https://www.surveycake.com/s/DnV4Y',
 	'https://www.surveycake.com/s/mvmal',
 	'https://www.surveycake.com/s/godxA',
 	'https://www.surveycake.com/s/P2rzw'
